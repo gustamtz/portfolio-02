@@ -112,6 +112,11 @@
     width: 90%;
   }
 
+  #editor .headline {
+    display: flex;
+    justify-content: center;
+  }
+
   #gallery {
     height: 100%;
   }
