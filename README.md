@@ -18,4 +18,4 @@ Baixe o `zip` ou clone o repositório e abra no seu navegador de prefêrencia.
 <br>
 <br> 
 
-Por:
+Por: <a href="https://github.com/gustamtz"> gustamtz</a>
