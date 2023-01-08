@@ -15,6 +15,15 @@ a {
   color: inherit;
 }
 
+.b {
+  color: rgb(31, 94, 210);
+}
+
+.b:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 .btn {
   display: inline-block;
   padding: 15px 60px;
@@ -60,14 +69,14 @@ a {
 
 .logo {
   font-size: 2rem;
-  font-weight: bold;
+  font-weight: 800;
 }
 
 #navbar-items {
   display: flex;
   list-style: none;
   text-transform: uppercase;
-  font-weight: 540;
+  font-weight: 600;
 }
 
 #navbar-items li {
@@ -84,8 +93,7 @@ a {
   justify-content: center;
   align-items: center;
   color: #eee;
-  background: url("/Medeiros-Edições/img/wallpaper.jpg") no-repeat center
-    center/cover;
+  background: url("/starterkit/img/wallpaper.jpg") no-repeat center center/cover;
   background-color: rgba(0, 0, 0, 0.5);
   background-blend-mode: color;
 }
@@ -120,6 +128,11 @@ a {
 .ferramenta {
   display: inline-block;
   width: 22%;
+}
+
+.premiere {
+  display: inline-block;
+  width: 32%;
 }
 
 #features {
