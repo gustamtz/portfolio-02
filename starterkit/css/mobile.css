@@ -25,8 +25,13 @@
   width: 50%;
 }
 
+.premiere {
+  display: inline-block;
+  width: 70%;
+}
+
 #features {
-  height: 100vh;
+  height: 100%;
 }
 
 #features-container {
@@ -37,12 +42,16 @@
   margin: 15px 0;
 }
 
-#product-container {
-  flex-direction: column;
+#product {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: 50px;
 }
 
-#product-container .iphone {
-  visibility: hidden;
+#product-container {
+  display: flex;
+  flex-direction: column;
 }
 
 #items {
@@ -56,7 +65,7 @@
 }
 
 #editor {
-  height: 100vh;
+  height: 100%;
   padding: 110px;
 }
 
@@ -71,4 +80,39 @@
 
 .gallery-image {
   width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 200px) {
+  #navbar {
+    height: 90px;
+  }
+
+  #navbar-container {
+    flex-direction: column;
+    padding: 6px;
+  }
+
+  #showcase-container {
+    height: 200px;
+    padding: 20px;
+  }
+
+  #ferramentas .headline {
+    display: flex;
+    justify-content: center;
+  }
+
+  .ferramenta {
+    width: 60%;
+  }
+
+  .premiere {
+    display: inline-block;
+    width: 90%;
+  }
+
+  #gallery {
+    height: 100%;
+  }
 }
