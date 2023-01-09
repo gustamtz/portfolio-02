@@ -11,8 +11,9 @@ Web site para prestação de serviços digitais como edição de vídeo e artes 
 
 <br>
 
-## Como visualizar
-Baixe o `zip` ou clone o repositório e abra no seu navegador de prefêrencia.
+## Acesse ou visualize
+1. Clique no *link* que está na descrição do repositório para visualizar o projeto.
+2. Baixe o `zip` ou clone o repositório e abra no seu editor de código de prefêrencia.
 
 
 <br>
