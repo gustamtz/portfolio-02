@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/113216494/211214638-45208270-97ed-4805
 <br>
 
 ## Descrição 
-Web site para prestação de serviços digitais como edição de vídeo e artes visuais.
+Web site para prestação de serviços digitais como edições de vídeos e artes visuais.
 
 <br>
 
