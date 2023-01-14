@@ -1,4 +1,4 @@
-# Portfólio pessoal 02
+# Portfólio - Medeiros Edições.
 
 
 https://user-images.githubusercontent.com/113216494/211214638-45208270-97ed-4805-9645-a0965f5a1921.mp4
