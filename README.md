@@ -1,7 +1,7 @@
 # Medeiros Edições.
 
 # Descrição 
-Web site para prestação de serviços digitais.
+Website para prestação de serviços digitais.
 
 <br>
 
